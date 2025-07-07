@@ -9,4 +9,4 @@ Transactions t on u.account = t.account
 group by
 u.name
 having
-sum(t.amount) > 10000
+balance > 10000
