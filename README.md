@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/dickysapu/leetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/dickysapu/leetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/dickysapu/leetCode/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/dickysapu/leetCode/tree/master/1527-patients-with-a-condition) |
 | [1541-top-travellers](https://github.com/dickysapu/leetCode/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/dickysapu/leetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dickysapu/leetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
